@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+/*Updated on 08/30/2026*/
 
+<html>
+
+<head>
+    <link stylesheet="main.css">
+
+    <style>a {color:blue}</style>
+
+</head>
+
+<body>
+    <h1 style:LightBlue;> Building Your First Webpage</h1>
+
+    <p>Kay Nae Oo</p>
+
+    <h2>My First Repository</h2>
+
+    <div class = “sample-class”>
+
+    <p a href="https://github.com/kayoo-glitch/hello-world/blob/main/ch02project_knoo878" target="_blank">
+        ch02project_knoo878
+    </p>
+
+    <h2>Building HTML Lists</h2>
+
+    <dl>
+        <dt>embedded style sheet</dt>
+        <dd>This cannot be used in multiple pages</dd>
+
+        <dt>external style sheet</dt>
+        <dd>This can be used in multiple pages</dd>
+
+        <dt>inline style</dt>
+        <dd>This is able to effect a specific element without effecting the other element</dd>
+    </dl>
+
+    <footer id="footer">
+        <p>&copy;2025, Kay Nae Oo</p>
+    </footer> 
+
+</body>
+
+</html>
